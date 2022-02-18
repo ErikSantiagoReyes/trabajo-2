@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <tittle></tittle>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+    <h1>Componentes de una computadora</h1>
+    <nav>
+        <ul>
+            <li><a href="">Menu</a></li>
+        </ul>
+    </nav>
+    <div class="contenido">
+        <div class="articulos">
+            <div class="secciones">
+                <div>
+                    <h2> Introduccion </h2>
+                    <p>En el momento de elegir los componentes de un computador se tiene que dar por sentado algunos datos importantes que muchos no toman en cuenta empezando por lo más importante es elegir el tipo de ordenador y para que lo vas a usar  dependiendo de esto hay ordenadores generales como Workstation,servidores , de oficina , portátiles  o superordenadores que serán detallados mas adelante
+                    </p>
+                </div>
+                <div><img src="https://www.globbit.com/wp-content/uploads/2015/07/Acer-nuevos-PC.jpg"></div>
+
+            </div>
+            <div class="secciones">
+                <div>
+                    <h2> Workstation </h2>
+                    <p>son equipos muy sofisticados diseñados para actividades especializadas con altos niveles de rendimiento. Aunque, también se usan como ordenador personal e, incluso, funcionan como servidores debido a su gran potencial
+                    </p>
+                </div>
+                <div><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Dual_Dell_monitor_workstation_setup.jpg"></div>
+
+            </div>
+            <div class="secciones">
+                <div>
+                    <h2> Servidores </h2>
+                    <p>Un servidor es un conjunto de computadoras capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia. Los servidores se pueden ejecutar en cualquier tipo de computadora, incluso en computadoras dedicadas
+                    </p>
+                </div>
+                <div><img src="http://idiria.com/wp-content/uploads/2015/12/servidores_en_cpd.jpg"></div>
+
+            </div>
+            <div class="secciones">
+                <div>
+                    <h2> Oficina </h2>
+                    <p>un equipo de oficina se denomina a aquellos que están diseñados para cumplir trabajos de oficina tales como mover programas que no requieren de una gran exigencia, en tema de trabajos por lo general suelen ser bastante básicos pero perfectos para cumplir las tareas
+                    </p>
+                </div>
+                <div><img src="https://www.definicionabc.com/wp-content/uploads/ordenador.jpg"></div>
+
+            </div>
+            <div class="secciones">
+                <div>
+                    <h2> Portatiles </h2>
+                    <p>Se le denomina ordenador portátil, a un determinado dispositivo informático que se puede mover o transportar con relativa facilidad , pero ahora gracias a los avances de la tecnología se pueden llegar a transportar portátiles con una capacidad de procesamiento tan alta como un super ordenador 
+                    </p>
+                </div>
+                <div><img src="https://conceptodefinicion.de/wp-content/uploads/2014/10/Laptop-2.jpg"></div>
+
+            </div>
+            <div class="secciones">
+                <div>
+                    <h2> Superordenadores </h2>
+                    <p>es un dispositivo informático con capacidades de cálculo superiores a las computadoras comunes y de escritorio, ya que son usadas con fines específicos
+                    </p>
+                </div>
+                <div><img src="https://dbgt2008.files.wordpress.com/2014/03/7b83e-supercomputadora-flash-gordon-736x600.jpg?w=640"></div>
+
+            </div>
+        </div>
+        <div class="menu-secundario">
+            <a href="">Mas articulos</a>
+            <a href="">Mas articulos</a>
+            <a href="">Mas articulos</a>
+            <a href="">Mas articulos</a>
+
+            
+        
+
+        </div>
+    </div>
+</body>
+</html>
+    
