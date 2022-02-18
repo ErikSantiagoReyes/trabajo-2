@@ -1,0 +1,49 @@
+<! DOCTYPE html> 
+<html>
+ <cabeza> 
+ <título>HOJA DE VIDA</título> 
+ </cabeza> 
+ <cuerpo> 
+ <centro><h1> HOJA DE VIDA</h1></center> 
+        <center><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.desarrollodepaginasweb.com.mx%2Fdiferencia-entre-ingenieria-en-sistemas-y-ingenieria-de-software%2F&psig=AOvVaw0-wkx8pEgE461N_vDOHgii&ust=1644637883247000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjX8tnf9vUCFQAAAAAdAAAAABAK" height="350" width="250"></center>
+ <centro><h1>Erik Santiago Reyes</h1></center> <br> 
+ <centro> 
+        <div id = "columna1">
+        <h2>Datos personales</h2>
+        <p>Celular: +57 313-224-22-19 <br>
+           correo princiapal: Ereyesp56019@universidadean.edu.co<br>
+           correo secundario: Erik.santiago.pardo@gmail.com<br>
+
+        </p>
+        <h2>Perfil Profesional</h2>
+        <p>Soy Erik Santiago Reyes tengo 18 años estoy estudiando ingeneria de sistemas  
+               en la Universidad Ean estoy en el tercer semestre tengo conocimientos en 
+ algunos lenguajes de programacion y tengo conocimientos en reparacion de reparacion 
+               de computadoras. <br>
+               
+               
+         . <br>
+         </p>  
+        </div>
+        
+         <div id = "columna2">
+         
+        <h2>habilidades destacadas </h2>
+        <p> creatividad
+            trabajo en equipo
+            dominacion de lenguajes de programacion
+            dominacion de calculos matematicos y razonamiento logico
+                    
+
+        </p>
+        <h2>Escolaridad</h2>
+        <p>primaria , secundaria y bachillerato <br>
+           Técnico en asistencia administrativa y contabilidad <br>
+           Actualmente estoy estudiando ingeniería de sistemas <br>        
+        </p>
+         </div>
+ </centro> 
+
+    
+ </cuerpo> 
+</html>
